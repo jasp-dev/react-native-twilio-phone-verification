@@ -1,0 +1,26 @@
+{
+  "name": "react-native-twilio-phone-verification",
+  "version": "1.0.0",
+  "description": "Inegrate Phone Number Verification to your react native app using twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasp-dev/react-native-twilio-phone-verification.git"
+  },
+  "keywords": [
+    "react-native-twilio-phone-verification",
+    "react",
+    "react-native",
+    "twilio",
+    "phone-number"
+  ],
+  "author": "Jas Works",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasp-dev/react-native-twilio-phone-verification/issues"
+  },
+  "homepage": "https://github.com/jasp-dev/react-native-twilio-phone-verification#readme"
+}
